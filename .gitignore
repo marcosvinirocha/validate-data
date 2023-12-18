@@ -1,0 +1,19 @@
+# Compiled output
+/target/
+
+# Quarkus application properties
+/src/main/resources/application.properties
+
+# IDE specific files (e.g. IntelliJ, Eclipse)
+/.idea/
+/.classpath
+/.project
+/.settings/
+
+# Build generated files
+/.mvn/
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle generated files
+.gradle/
+build/
